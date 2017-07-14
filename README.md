@@ -66,9 +66,9 @@
 
 ## Пример входных/ выходных файлов
 
-[Входной файл](https://github.com/DmitriySidnev/Task_STC/data/in.txt)
+[Входной файл](https://github.com/DmitriySidnev/Task_STC/blob/master/data/in.txt)
 
-[Выходной файл](https://github.com/DmitriySidnev/Task_STC/data/out.txt)
+[Выходной файл](https://github.com/DmitriySidnev/Task_STC/blob/master/data/out.txt)
 
 ## Запуск тестов
 
